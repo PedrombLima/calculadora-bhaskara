@@ -1,4 +1,4 @@
-import math
+import math #Me introduzindo no mundo da automação utilizando python, fiz e transformei essa calculado de bhaskara em ".exe". 
 
 a = float(input("Digite o valor de a "))
 b = float(input("Digite o valor de b "))
